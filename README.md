@@ -5,7 +5,8 @@
 - Estudando: Ciência da Computação na UVV e umas coisinhas a mais 🚀
 - Hobbies no momento: Escrever meu livro de fantasia e jogar cardgames 🃏
 - Linguagens: Trindade Web, SQL, Postgresql, um pouco de java e, futuramente, mais de backending!
-- Certificados: Cibersegurança e IT Essentials pela Cisco Network Academy
+- Certificados: Cibersegurança e IT Essentials pela Cisco Networking
+Academy
 - Contato: ribeirogabrielbarboza@gmail.com/ Saya#3717
 
 
