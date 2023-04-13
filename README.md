@@ -1,13 +1,13 @@
 ## Olá! Meu nome é Gabriel Barboza, mas você pode me chamar de Gabs!
 
 #### Um pouco sobre mim:
-- Trabalhando em: Suporte TI no PicPay 💰
-- Estudando: Ciência da Computação na UVV e umas coisinhas a mais 🚀
+- Trabalhando em: Desenvolvedor Frontend na GRPM Holding
+- Estudando: Ciência da Computação na UVV e cursos na Udemy
 - Hobbies no momento: Escrever meu livro de fantasia e jogar cardgames 🃏
-- Linguagens: Trindade Web, SQL, Postgresql, um pouco de java e, futuramente, mais de backending!
+- Linguagens: HTML, CSS, JavaScript, PHP, SQL, Postgresql e mais em breve!
 - Certificados: Cibersegurança e IT Essentials pela Cisco Networking
 Academy
-- Contato: ribeirogabrielbarboza@gmail.com/ Saya#3717
+- Contato: ribeirogabrielbarboza@gmail.com/ Saya#3717 (Discord)
 
 
 <div align="center">
