@@ -1,10 +1,10 @@
-## Olá! Meu nome é Gabriel Barboza, mas você pode me chamar de Gabs!
+## Olá! Meu nome é Gabriel Barboza, mas você pode me chamar de Gab!
 
 #### Um pouco sobre mim:
 - Trabalhando em: Desenvolvedor Frontend na GRPM Holding
-- Estudando: Ciência da Computação na UVV e cursos na Udemy
+- Estudando: Ciência da Computação na UVV e cursos na Alura
 - Hobbies no momento: Escrever meu livro de fantasia e jogar cardgames 🃏
-- Linguagens: HTML, CSS, JavaScript, PHP, SQL, Postgresql e mais em breve!
+- Linguagens: React, Javascript, CSS e HTML
 - Certificados: Cibersegurança e IT Essentials pela Cisco Networking
 Academy
 - Contato: ribeirogabrielbarboza@gmail.com/ Saya#3717 (Discord)
