@@ -3,7 +3,7 @@
 #### Um pouco sobre mim:
 - Trabalhando em: Desenvolvedor Frontend na GRPM Holding
 - Estudando: Ciência da Computação na UVV e cursos na Alura
-- Hobbies no momento: Escrever meu livro de fantasia e jogar cardgames 🃏
+- Hobbies: Escrever, Game Design e Cardgames 🃏
 - Linguagens: React, Javascript, CSS e HTML
 - Certificados: Cibersegurança e IT Essentials pela Cisco Networking
 Academy
